@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun tech, DevOps by AWS near marthahalli, Banglore.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To Mithun tech, DevOps by AWS near bangalore,karnataka,india.</h2>
+			<h3>Contact @ +919686676076,+91-9980923226,+91-9980923216</h3>
 		</div>	
 	</div>
 
